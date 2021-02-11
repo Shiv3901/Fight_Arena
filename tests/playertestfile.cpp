@@ -84,9 +84,9 @@ int main()
 		cout << "Player stats: ";
 		play->printStats();
  
-		delete play;
+		//delete play;
 	} 
 
-	delete array;
+	delete[] array;
 	return 0;
 }

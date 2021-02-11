@@ -72,7 +72,7 @@ int main()
 
 	}
 
-	delete arr;
-	delete arr1;
+	delete[] arr;
+	delete[] arr1;
 	return 0;
 }

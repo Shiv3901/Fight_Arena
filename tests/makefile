@@ -3,7 +3,7 @@ runtests: attackstest securitytest checkertest fieldtest passagetest groundtest 
 attackstest: attackstestfile.cpp ../src/attacks.o
 	g++ attackstestfile.cpp ../src/attacks.o -o attackstest
 	./attackstest < attacksinput.txt | diff - attacksoutput.txt
-	echo -e '\n'
+	echo -e '\n\n'
 	echo Test passed: 10 cases tested on 5 different attacks
 
 securitytest: securitytestfile.cpp ../src/security.o
