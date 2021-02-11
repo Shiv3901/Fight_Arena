@@ -1,5 +1,5 @@
 #include <iostream>
-#include "../checker.h"
+#include "../src/checker.h"
 
 using namespace std;
 

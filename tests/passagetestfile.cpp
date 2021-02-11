@@ -1,5 +1,5 @@
 #include <iostream>
-#include "../passage.h" 
+#include "../src/passage.h" 
 
 using namespace std;
 

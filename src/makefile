@@ -1,17 +1,8 @@
 all: test.o checker.o input.o field.o passage.o attacks.o ground.o  clearscreen.o security.o player.o archer.o defender.o mechanic.o medic.o
-	clang++ test.o input.o checker.o field.o passage.o attacks.o ground.o clearscreen.o security.o player.o archer.o defender.o mechanic.o medic.o -o test
+	clang++ test.o input.o checker.o field.o passage.o attacks.o ground.o clearscreen.o security.o player.o archer.o defender.o mechanic.o medic.o -o assess
 
-#For M1 arm64 architecture
-allM1: test.cpp input.cpp checker.cpp field.cpp passage.cpp attacks.cpp ground.cpp clearscreen.cpp security.cpp player.cpp archer.cpp defender.cpp mechanic.cpp medic.cpp
-	clang++ test.cpp input.cpp checker.cpp field.cpp passage.cpp attacks.cpp ground.cpp clearscreen.cpp security.cpp player.cpp archer.cpp defender.cpp mechanic.cpp medic.cpp -o M1
-
-playM1:
-	./M1
-	rm M1
-
-play:
-	./test
-	rm test
+install: all
+	mv assess ../installed
 
 test: test.cpp
 	clang++ -c test.cpp -o test.o
@@ -55,8 +46,8 @@ medic: medic.cpp medic.h
 input.o: input.cpp input.h
 	clang++ -c input.cpp -o input.o
 
-clean: 
-	rm test.o checker.o field.o passage.o attacks.o ground.o clearscreen.o security.o player.o archer.o defender.o mechanic.o medic.o 
+clean:
+	rm -f *.o  assess
 
 input1.o: input1.cpp input1.h
 	clang++ -c input1.cpp -o input1.o

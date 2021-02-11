@@ -1,5 +1,5 @@
 #include <iostream>
-#include "../ground.h"
+#include "../src/ground.h"
 
 using namespace std;
 

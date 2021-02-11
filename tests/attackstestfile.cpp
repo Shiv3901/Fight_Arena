@@ -1,5 +1,5 @@
 #include <iostream>
-#include "../attacks.h" 
+#include "../src/attacks.h" 
 
 using namespace std;
 
@@ -60,6 +60,6 @@ int main()
 		cout << endl << endl ;
 	}
 
-	delete arr;
-	delete arr1;
+	delete[] arr;
+	delete[] arr1;
 }

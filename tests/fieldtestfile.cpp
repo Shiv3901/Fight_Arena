@@ -1,8 +1,8 @@
 #include <iostream>
-#include "../player.h"
-#include "../field.h"
-#include "../mechanic.h"
-#include "../defender.h"  
+#include "../src/player.h"
+#include "../src/field.h"
+#include "../src/mechanic.h"
+#include "../src/defender.h"  
 
 using namespace std;
 

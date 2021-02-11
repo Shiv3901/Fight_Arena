@@ -1,9 +1,9 @@
 #include <iostream>
-#include "../player.h"
-#include "../archer.h"
-#include "../defender.h"
-#include "../mechanic.h"
-#include "../medic.h"
+#include "../src/player.h"
+#include "../src/archer.h"
+#include "../src/defender.h"
+#include "../src/mechanic.h"
+#include "../src/medic.h"
 #include <iostream>
 #include <string> 
 
