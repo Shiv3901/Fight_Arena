@@ -1,0 +1,150 @@
+
+Case 1: 
+checkStats: 0
+
+Case 2: 
+checkStats: 0
+
+Case 3: 
+checkStats: 1
+
+Case 4: 
+checkStats: 0
+
+Case 5: 
+checkStats: 0
+
+Case 6: 
+checkStats: 0
+
+Case 7: 
+checkStats: 0
+
+Case 8: 
+checkStats: 0
+
+Case 9: 
+checkStats: 1
+
+Case 10: 
+checkStats: 0
+
+Case 11: 
+checkStats: 0
+
+Case 12: 
+checkStats: 1
+
+Case 13: 
+checkStats: 0
+
+Case 14: 
+checkStats: 0
+
+Case 15: 
+checkStats: 0
+
+Case 16: 
+checkStats: 0
+
+Case 17: 
+checkStats: 0
+
+Case 18: 
+checkStats: 0
+
+Case 19: 
+checkStats: 0
+
+Case 20: 
+checkStats: 1
+
+Case 21: 
+checkStats: 0
+
+Case 22: 
+checkStats: 0
+
+Case 23: 
+checkStats: 0
+
+Case 24: 
+checkStats: 0
+
+Case 25: 
+checkStats: 0
+
+Case 26: 
+checkStats: 1
+
+Case 27: 
+checkStats: 0
+
+Case 28: 
+checkStats: 0
+
+Case 29: 
+checkStats: 0
+
+Case 30: 
+checkStats: 0
+
+Case 31: 
+checkStats: 0
+
+Case 32: 
+checkStats: 0
+
+Case 33: 
+checkStats: 1
+
+Case 34: 
+checkStats: 0
+
+Case 35: 
+checkStats: 0
+
+Case 36: 
+checkStats: 0
+
+Case 37: 
+checkStats: 0
+
+Case 38: 
+checkStats: 0
+
+Case 39: 
+checkStats: 0
+
+Case 40: 
+checkStats: 0
+
+Case 41: 
+checkStats: 0
+
+Case 42: 
+checkStats: 1
+
+Case 43: 
+checkStats: 0
+
+Case 44: 
+checkStats: 0
+
+Case 45: 
+checkStats: 0
+
+Case 46: 
+checkStats: 1
+
+Case 47: 
+checkStats: 1
+
+Case 48: 
+checkStats: 0
+
+Case 49: 
+checkStats: 0
+
+Case 50: 
+checkStats: 0

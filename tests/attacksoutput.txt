@@ -1,0 +1,84 @@
+CASE 1: 
+
+Enter: 
+Player 1: 23 34 23 
+Player 2: 34 34 34 
+
+CASE 2: 
+
+Enter: 
+
+Gunshot
+
+Player 1: 34 34 54 
+Player 2: 18 48 43 
+
+CASE 3: 
+
+Enter: 
+
+Sword
+
+Player 1: 41 34 25 
+Player 2: 13 -2 33 
+
+CASE 4: 
+
+Enter: 
+
+Skip
+
+Player 1: 43 34 59 
+Player 2: 42 34 38 
+
+CASE 5: 
+
+Enter: 
+
+Medical
+
+Player 1: 58 -1 29 
+Player 2: 3 43 49 
+
+CASE 6: 
+
+Enter: 
+Player 1: 34 56 56 
+Player 2: 32 67 67 
+
+CASE 7: 
+
+Enter: 
+
+Gunshot
+
+Player 1: 45 23 25 
+Player 2: 19 93 100 
+
+CASE 8: 
+
+Enter: 
+
+Sword
+
+Player 1: 65 67 79 
+Player 2: 15 77 98 
+
+CASE 9: 
+
+Enter: 
+
+Skip
+
+Player 1: 34 87 114 
+Player 2: 33 87 65 
+
+CASE 10: 
+
+Enter: 
+
+Medical
+
+Player 1: 38 49 93 
+Player 2: 34 34 45 
+

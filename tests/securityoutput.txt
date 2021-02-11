@@ -1,0 +1,252 @@
+
+
+Case 1: 
+checkSword: 1
+checkSkip: 1
+checkMedic: [38;5;202m
+You do not need health at the moment
+[0m0
+checkCanonball: [38;5;202m
+You need exactly 100 Mana 
+[0m0
+
+
+
+
+Case 2: 
+checkSword: 1
+checkSkip: 1
+checkMedic: [38;5;202m
+You do not need health at the moment
+[0m0
+checkCanonball: [38;5;202m
+You need exactly 100 Mana 
+[0m0
+
+
+
+
+Case 3: 
+checkSword: 1
+checkSkip: 1
+checkMedic: [38;5;202m
+You do not need health at the moment
+[0m0
+checkCanonball: [38;5;202m
+You need exactly 100 Mana 
+[0m0
+
+
+
+
+Case 4: 
+checkSword: 1
+checkSkip: 1
+checkMedic: [38;5;202m
+You do not need health at the moment
+[0m0
+checkCanonball: [38;5;202m
+You need exactly 100 Mana 
+[0m0
+
+
+
+
+Case 5: 
+checkSword: 1
+checkSkip: 1
+checkMedic: [38;5;202m
+You do not need health at the moment
+[0m0
+checkCanonball: [38;5;202m
+You need exactly 100 Mana 
+[0m0
+
+
+
+
+Case 6: 
+checkSword: 1
+checkSkip: 1
+checkMedic: 1
+checkCanonball: [38;5;202m
+You need exactly 100 Mana 
+[0m0
+
+
+
+
+Case 7: 
+checkSword: 1
+checkSkip: 1
+checkMedic: [38;5;202m
+You do not need health at the moment
+[0m0
+checkCanonball: [38;5;202m
+You need exactly 100 Mana 
+[0m0
+
+
+
+
+Case 8: 
+checkSword: 1
+checkSkip: 1
+checkMedic: [38;5;202m
+You do not need health at the moment
+[0m0
+checkCanonball: [38;5;202m
+You need exactly 100 Mana 
+[0m0
+
+
+
+
+Case 9: 
+checkSword: 1
+checkSkip: 1
+checkMedic: 1
+checkCanonball: [38;5;202m
+You need exactly 100 Mana 
+[0m0
+
+
+
+
+Case 10: 
+checkSword: 1
+checkSkip: [38;5;202m
+You need your healt greater than 20 units
+[0m0
+checkMedic: 1
+checkCanonball: [38;5;202m
+You need exactly 100 Mana 
+[0m0
+
+
+
+
+Case 11: 
+checkSword: 1
+checkSkip: 1
+checkMedic: [38;5;202m
+You do not need health at the moment
+[0m0
+checkCanonball: [38;5;202m
+You need exactly 100 Mana 
+[0m0
+
+
+
+
+Case 12: 
+checkSword: 1
+checkSkip: 1
+checkMedic: [38;5;202m
+You do not need health at the moment
+[0m0
+checkCanonball: [38;5;202m
+You need exactly 100 Mana 
+[0m0
+
+
+
+
+Case 13: 
+checkSword: [38;5;202m
+You need at least 10 Mana to pierce Sword
+[0m0
+checkSkip: 1
+checkMedic: [38;5;202m
+You do not need health at the moment
+[0m0
+checkCanonball: [38;5;202m
+You need exactly 100 Mana 
+[0m0
+
+
+
+
+Case 14: 
+checkSword: 1
+checkSkip: 1
+checkMedic: [38;5;202m
+You do not need health at the moment
+[0m0
+checkCanonball: 1
+
+
+
+
+Case 15: 
+checkSword: 1
+checkSkip: 1
+checkMedic: [38;5;202m
+You do not need health at the moment
+[0m0
+checkCanonball: [38;5;202m
+You need exactly 100 Mana 
+[0m0
+
+
+
+
+Case 16: 
+checkSword: 1
+checkSkip: 1
+checkMedic: [38;5;202m
+You do not need health at the moment
+[0m0
+checkCanonball: [38;5;202m
+You need exactly 100 Mana 
+[0m0
+
+
+
+
+Case 17: 
+checkSword: 1
+checkSkip: 1
+checkMedic: [38;5;202m
+You do not need health at the moment
+[0m0
+checkCanonball: 1
+
+
+
+
+Case 18: 
+checkSword: 1
+checkSkip: 1
+checkMedic: [38;5;202m
+You do not need health at the moment
+[0m0
+checkCanonball: [38;5;202m
+You need exactly 100 Mana 
+[0m0
+
+
+
+
+Case 19: 
+checkSword: 1
+checkSkip: 1
+checkMedic: [38;5;202m
+You do not need health at the moment
+[0m0
+checkCanonball: [38;5;202m
+You need exactly 100 Mana 
+[0m0
+
+
+
+
+Case 20: 
+checkSword: 1
+checkSkip: 1
+checkMedic: [38;5;202m
+You do not need health at the moment
+[0m0
+checkCanonball: 1
+
+

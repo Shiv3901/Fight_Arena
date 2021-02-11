@@ -1,0 +1,154 @@
+
+Case 1: 
+
+Please select a player type from the following !!
+
+1. Archer:   'a' 
+2. Defender: 'd' 
+3. Mechanic: 'm' 
+4. Medic:    'f' 
+
+Enter the keyword: Enter a player name: Enter Stats: 
+
+Player Name: Shiv3901
+
+Player stats: 0 34 100 
+
+Case 2: 
+
+Please select a player type from the following !!
+
+1. Archer:   'a' 
+2. Defender: 'd' 
+3. Mechanic: 'm' 
+4. Medic:    'f' 
+
+Enter the keyword: 
+Incorrect Input
+Enter Again: 
+Incorrect Input
+Enter Again: Enter a player name: Enter Stats: 
+
+Player Name: Arsh681
+
+Player stats: 23 3 23 
+
+Case 3: 
+
+Please select a player type from the following !!
+
+1. Archer:   'a' 
+2. Defender: 'd' 
+3. Mechanic: 'm' 
+4. Medic:    'f' 
+
+Enter the keyword: Enter a player name: Enter Stats: 
+
+Player Name: DevaReva
+
+Player stats: 0 0 99 
+
+Case 4: 
+
+Please select a player type from the following !!
+
+1. Archer:   'a' 
+2. Defender: 'd' 
+3. Mechanic: 'm' 
+4. Medic:    'f' 
+
+Enter the keyword: Enter a player name: Enter Stats: 
+
+Player Name: Aa
+
+Player stats: 0 0 100 
+
+Case 5: 
+
+Please select a player type from the following !!
+
+1. Archer:   'a' 
+2. Defender: 'd' 
+3. Mechanic: 'm' 
+4. Medic:    'f' 
+
+Enter the keyword: Enter a player name: Enter Stats: 
+
+Player Name: 
+
+Player stats: 0 0 100 
+
+Case 6: 
+
+Please select a player type from the following !!
+
+1. Archer:   'a' 
+2. Defender: 'd' 
+3. Mechanic: 'm' 
+4. Medic:    'f' 
+
+Enter the keyword: Enter a player name: Enter Stats: 
+
+Player Name: 
+
+Player stats: 0 0 100 
+
+Case 7: 
+
+Please select a player type from the following !!
+
+1. Archer:   'a' 
+2. Defender: 'd' 
+3. Mechanic: 'm' 
+4. Medic:    'f' 
+
+Enter the keyword: Enter a player name: Enter Stats: 
+
+Player Name: 
+
+Player stats: 0 0 100 
+
+Case 8: 
+
+Please select a player type from the following !!
+
+1. Archer:   'a' 
+2. Defender: 'd' 
+3. Mechanic: 'm' 
+4. Medic:    'f' 
+
+Enter the keyword: Enter a player name: Enter Stats: 
+
+Player Name: 
+
+Player stats: 0 0 100 
+
+Case 9: 
+
+Please select a player type from the following !!
+
+1. Archer:   'a' 
+2. Defender: 'd' 
+3. Mechanic: 'm' 
+4. Medic:    'f' 
+
+Enter the keyword: Enter a player name: Enter Stats: 
+
+Player Name: 
+
+Player stats: 0 0 100 
+
+Case 10: 
+
+Please select a player type from the following !!
+
+1. Archer:   'a' 
+2. Defender: 'd' 
+3. Mechanic: 'm' 
+4. Medic:    'f' 
+
+Enter the keyword: Enter a player name: Enter Stats: 
+
+Player Name: 
+
+Player stats: 0 0 100 
